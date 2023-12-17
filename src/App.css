@@ -1,0 +1,14 @@
+body {
+  background-color: #EEE7DA;
+}
+h1 {
+  color: #FB8B24;
+  text-align: center;
+  margin-top: 5px;
+  text-decoration: underline;
+  font-size: 4rem;
+}
+.float-child {
+  width: 50%;
+  float: left;
+}

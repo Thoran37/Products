@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "firstname": "Thoran",
+      "lastname": "Muvvala",
+      "phone": "9948068484",
+      "email": "thoranmuvvala@gmail.com",
+      "password": "$2a$04$jchzzTdp9zIYdz545Wneq.iqp4v3LZICPh7w3Po5CAXt9nXJnQQdW",
+      "username": "BabuBadham",
+      "password1": "helloworld",
+      "id": 1
+    },
+    {
+      "firstname": "dnfkjsf",
+      "lastname": "rdfbdf",
+      "phone": "egnerkjgn",
+      "email": "grlng@djgnfdkjg",
+      "password": "$2a$04$3aL0pMEy16JHchZPS2./JOe7LxOr6TNzpg9JoIlwSU34cvGPe2TRG",
+      "username": "glkndfkgn",
+      "password1": "rrgnerkg",
+      "id": 2
+    },
+    {
+      "firstname": "Thoran",
+      "lastname": "Muvvala",
+      "phone": "9948068484",
+      "email": "srideivikandukuri1976@gmail.com",
+      "password": "$2a$04$BRvVOB5lylRGTX2jnXeuxu/ckN1ohNXHq62aA8Q3hr.jhJRD8rf6.",
+      "username": "fdsd",
+      "password1": "$2a$04$BRvVOB5lylRGTX2jnXeuxu/ckN1ohNXHq62aA8Q3hr.jhJRD8rf6.",
+      "id": 3
+    },
+    {
+      "firstname": "Thoran",
+      "lastname": "Muvvala",
+      "phone": "9948068484",
+      "email": "srmuvvala@gmail.com",
+      "password": "$2a$04$5eyEwX81e0zzgzcKnkMx/.BUfDWcZrs8eX2sn7jKS2LHn5DcMinau",
+      "username": "gfdg",
+      "password1": "$2a$04$5eyEwX81e0zzgzcKnkMx/.BUfDWcZrs8eX2sn7jKS2LHn5DcMinau",
+      "id": 4
+    },
+    {
+      "firstname": "Thoran",
+      "lastname": "Muvvala",
+      "phone": "9948068484",
+      "email": "srmuvvala@gmail.com",
+      "password": "$2a$04$/LprqDj/OwBGWl8ilaSDre.mrBJK5J3m/hruZYGJSgdDoyI1ojBsG",
+      "username": "fbdfbd",
+      "password1": "$2a$04$/LprqDj/OwBGWl8ilaSDre.mrBJK5J3m/hruZYGJSgdDoyI1ojBsG",
+      "id": 5
+    },
+    {
+      "firstname": "Thoran",
+      "lastname": "Muvvala",
+      "phone": "egnerkjgn",
+      "email": "grlng@djgnfdkjg",
+      "password": "$2a$04$.xFlsClhR7PuIh1GAlr0bOen9Q/EAjQkESPylgwlkcQ8c4VfmBfJO",
+      "username": "qwer",
+      "password1": "$2a$04$.xFlsClhR7PuIh1GAlr0bOen9Q/EAjQkESPylgwlkcQ8c4VfmBfJO",
+      "id": 6
+    }
+  ]
+}
