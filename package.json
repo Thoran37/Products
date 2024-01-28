@@ -1,7 +1,6 @@
 {
   "name": "products",
   "version": "0.1.0",
-  "homepage": "https://Thoran37.github.io/Products",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
